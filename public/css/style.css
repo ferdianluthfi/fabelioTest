@@ -32,6 +32,13 @@ img {
     height:100%;
     object-fit:cover;
 }
+footer{
+    bottom:0; 
+    position:absolute !important; 
+    top: auto !important; 
+    background-color: transparent;
+    width:100%;
+}
 
 
 @media screen and (max-width: 600px) {
